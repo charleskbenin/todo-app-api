@@ -27,7 +27,7 @@ SECRET_KEY = '+(d$qxp4&rvv5p9gh#1j3$2m*v4yy%p*8v0)xec+f_=3gl%k5@'
 DEBUG = True
 
 ALLOWED_HOSTS = [ 
-    '*'
+    '*', 'apisamp.herokuapp.com'
 ]
 
 
